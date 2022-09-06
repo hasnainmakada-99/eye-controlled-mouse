@@ -1,4 +1,4 @@
-## Eye Controlled Mouse
+## Eye Controlled Mouse - version
 
 - Install requirements using `pip install -r requirements.txt`. in the terminal
 - Run `python3 main.py` in the terminal.
